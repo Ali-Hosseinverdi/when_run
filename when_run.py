@@ -11,7 +11,7 @@ def whenrun(hour,minute):
         time_3 = time_2.split(':')
         sleep(1)
 
-hour = input("when hour to press : ")
-minute = input("when minute to press : ")
+hour = input("when hour to do : ")
+minute = input("when minute to do : ")
 
 whenrun(hour,minute)
